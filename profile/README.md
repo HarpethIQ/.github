@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://www.harpethiq.com/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HarpethIQ/.github/raw/main/profile/assets/banner-dark.png">
-      <img src="https://github.com/HarpethIQ/.github/raw/main/profile/assets/banner-light.png" alt="HarpethIQ. One platform. Every service line. No code. A CMMS built for healthcare maintenance.">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarpethIQ/.github/main/profile/assets/banner-dark.png">
+      <img src="https://raw.githubusercontent.com/HarpethIQ/.github/main/profile/assets/banner-light.png" alt="HarpethIQ. One platform. Every service line. No code. A CMMS built for healthcare maintenance.">
     </picture>
   </a>
 </p>
@@ -18,7 +18,7 @@
 HarpethIQ is your source of truth for the physical environment and every asset in it, from the central plant to the infusion pump. Hospital maintenance teams use it to plan complex PMs, oversee compliance, and keep technicians moving, online or offline.
 
 <p align="center">
-  <img src="https://github.com/HarpethIQ/.github/raw/main/profile/assets/dashboard.png" alt="The HarpethIQ home dashboard showing work order flow, survey readiness, upcoming PM load, and SLA by priority.">
+  <img src="https://raw.githubusercontent.com/HarpethIQ/.github/main/profile/assets/dashboard.png" alt="The HarpethIQ home dashboard showing work order flow, survey readiness, upcoming PM load, and SLA by priority.">
   <br>
   <sub>Configured dashboard with demonstration data.</sub>
 </p>
